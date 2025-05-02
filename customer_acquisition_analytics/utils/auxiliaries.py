@@ -511,3 +511,4 @@ def plot_ltv_over_time(df, time_column='timestamp', value_column='total_ltv_per_
     # Display the plot
     fig.show()
 
+
